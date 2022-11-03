@@ -1,4 +1,4 @@
-# Mern-Front-End-project: Anime Flick Clicks!
+# Anime Flick Clicks!
 
 # Description
 A unique accordion dashboard that displays film relase dates and URLs to popular Anime films when clicked upon.
