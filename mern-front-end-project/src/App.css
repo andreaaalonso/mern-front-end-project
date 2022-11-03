@@ -1,0 +1,42 @@
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+body {
+  font-family:fantasy;
+  margin:0;
+  background-color:darkorange;
+}
+
+.p-title {
+  font-size:xx-large;
+  text-align: center;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-decoration: underline;
+  color:#e5282e;
+}
+
+.accordion {
+  padding-left: 100px;
+  padding-right: 160px;
+  border: darkorange !important;
+}
+
+.p-text {
+  color: navy;
+  font-weight: bold;
+}
+
+.url-title {
+  color: yellow;
+}
+
+a {
+  color: yellow;
+}
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
